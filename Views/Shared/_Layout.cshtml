@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] </title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/PimUrbanGreen.styles.css" asp-append-version="true" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header>
+    <nav class="navbar navbar-expand-lg">
+      <div class="container-fluid">
+        <!-- Logo no canto esquerdo -->
+        <a class="navbar-brand" asp-area="" asp-controller="Index" asp-action="Index" id="logotipo">Urban Green</a>
+        
+        <!-- Botão de logout no canto direito -->
+        <div class="d-flex ms-auto">
+          <img id="logotipoImg" src="images/logo-urban-green-011.png" alt="logo-urban-green">
+        </div> 
+      </div>
+    </nav>
+    </header>
+    
+
+    <div class="container vh-100 d-flex w-100 justify-content-center align-items-center">
+        <main role="main" class="pb-3 w-100">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer">
+        <div class="container-fluid">
+            &copy; Todos os direitos reservados-2024 - Pim Urban Green UNIP
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/pedidos.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
