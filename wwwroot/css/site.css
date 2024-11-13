@@ -4,39 +4,28 @@
 
 html {
   font-size: 14px;
-}
-
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+  position: relative;
+  min-height: 100%;
 }
 
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
   box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
 
-html {
-  position: relative;
-  min-height: 100%;
-}
-
 header {
-  background-color: #066206;
+  background-color: #258cfb;
   align-self: center;
-  min-height: 70px;
-  z-index: 1000;
+  min-height: 50px;
   position: relative;
 }
 
 footer {
-  background-color: #066206;
+  background-color: #258cfb;
   text-align: center;
   color: white;
 }
 
 body {
-  margin-bottom: 60px;
   background-color: #F9F9F9;
 }
 
@@ -50,8 +39,6 @@ body {
 
 .card {
   width: 100%;
-  margin-top: 25px;
-  margin-bottom: 25px;
 }
 
 .col {
@@ -59,28 +46,15 @@ body {
   padding-right: 0;
 }
 
-#icon {
-  max-height: 75px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-}
-
-.toast {
-  z-index: 1000;
-}
-
-form {
-  padding-left: 50px;
-  padding-right: 50px;
-}
-
 .form-control-sm {
-  padding: 0.25rem 0.5rem;
+  padding: 0.15rem 0.5rem;
   font-size: 0.875rem;
   border-radius: 0.2rem;
-  width: 70px; /* Ajuste a largura conforme necessário */
+  width: 80px; 
 }
 
-#logotipoImg {
-  max-width: 30px;
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
 }

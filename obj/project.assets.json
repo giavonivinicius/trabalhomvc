@@ -4348,11 +4348,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vinig\\Documents\\Pessoais\\Cursos\\ADS-Unip\\4-SEM\\PIM\\PimUrbanGreen\\PimUrbanGreen.csproj",
+      "projectUniqueName": "C:\\Users\\vinig\\Documents\\Pessoais\\Cursos\\ADS-Unip\\4-SEM\\PIM\\Quitanda\\PimUrbanGreen.csproj",
       "projectName": "PimUrbanGreen",
-      "projectPath": "C:\\Users\\vinig\\Documents\\Pessoais\\Cursos\\ADS-Unip\\4-SEM\\PIM\\PimUrbanGreen\\PimUrbanGreen.csproj",
+      "projectPath": "C:\\Users\\vinig\\Documents\\Pessoais\\Cursos\\ADS-Unip\\4-SEM\\PIM\\Quitanda\\PimUrbanGreen.csproj",
       "packagesPath": "C:\\Users\\vinig\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vinig\\Documents\\Pessoais\\Cursos\\ADS-Unip\\4-SEM\\PIM\\PimUrbanGreen\\obj\\",
+      "outputPath": "C:\\Users\\vinig\\Documents\\Pessoais\\Cursos\\ADS-Unip\\4-SEM\\PIM\\Quitanda\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vinig\\AppData\\Roaming\\NuGet\\NuGet.Config"
