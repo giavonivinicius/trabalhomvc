@@ -1,5 +1,5 @@
-﻿@{
-  ViewData["Title"] = "";
+@{
+  ViewData["Title"] = "Login";
 }
 
 <div class="container-fluid text-center">
@@ -15,20 +15,20 @@
               <p class="card-text"><small class="text-body-primary">Preencha com seus dados.</small></p>
               
               <!-- Formulário de Cadastro -->
-              <form>
+              <form method="post">
                 <div class="mb-3">
-                  <label for="Usuario" class="form-label">Nome</label>
-                  <input type="text" class="form-control" id="Usuario" aria-describedby="NomeHelp">
-                  <div id="NomeHelp" class="form-text">Digite o seu nome completo.</div>
+                  <label for="Usuario" class="form-label" >Nome</label>
+                  <input type="text" class="form-control" id="Usuario" name="usuario" required />
+                  <div class="form-text">Digite o seu nome completo.</div>
                 </div>
                 
                 <div class="mb-3">
                   <label for="Senha" class="form-label">Senha</label>
-                  <input type="password" class="form-control" id="Senha" aria-describedby="SenhaHelp">
-                  <div id="SenhaHelp" class="form-text">Digite sua senha.</div>
+                  <input type="password" class="form-control" id="Senha" name="senha" required />
+                  <div class="form-text">Digite sua senha.</div>
                 </div>
                 
-                <button type="submit" class="btn btn-primary mt-3">Enviar</button>
+                <button type="submit" class="btn btn-primary mt-3">Entrar</button>
               </form>
             </div>
           </div>

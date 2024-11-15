@@ -18,8 +18,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\vinig\Documents\Pessoais\Cursos\ADS-Unip\4-SEM\PIM\Quitanda
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/vinig/Documents/Pessoais/Cursos/ADS-Unip/4-SEM/PIM/Quitanda/Views/Index/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXhcSW5kZXguY3NodG1s
+[C:/Users/vinig/Documents/Pessoais/Cursos/ADS-Unip/4-SEM/PIM/Quitanda/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vinig/Documents/Pessoais/Cursos/ADS-Unip/4-SEM/PIM/Quitanda/Views/Account/Wellcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxXZWxsY29tZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/vinig/Documents/Pessoais/Cursos/ADS-Unip/4-SEM/PIM/Quitanda/Views/Shared/Error.cshtml]

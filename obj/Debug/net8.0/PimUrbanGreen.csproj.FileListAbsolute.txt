@@ -164,15 +164,11 @@ C:\Users\vinig\Documents\Pessoais\Cursos\ADS-Unip\4-SEM\PIM\Quitanda\bin\Debug\n
 C:\Users\vinig\Documents\Pessoais\Cursos\ADS-Unip\4-SEM\PIM\Quitanda\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\vinig\Documents\Pessoais\Cursos\ADS-Unip\4-SEM\PIM\Quitanda\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\vinig\Documents\Pessoais\Cursos\ADS-Unip\4-SEM\PIM\Quitanda\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\vinig\Documents\Pessoais\Cursos\ADS-Unip\4-SEM\PIM\Quitanda\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\vinig\Documents\Pessoais\Cursos\ADS-Unip\4-SEM\PIM\Quitanda\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
 C:\Users\vinig\Documents\Pessoais\Cursos\ADS-Unip\4-SEM\PIM\Quitanda\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
 C:\Users\vinig\Documents\Pessoais\Cursos\ADS-Unip\4-SEM\PIM\Quitanda\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\vinig\Documents\Pessoais\Cursos\ADS-Unip\4-SEM\PIM\Quitanda\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\vinig\Documents\Pessoais\Cursos\ADS-Unip\4-SEM\PIM\Quitanda\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\vinig\Documents\Pessoais\Cursos\ADS-Unip\4-SEM\PIM\Quitanda\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-C:\Users\vinig\Documents\Pessoais\Cursos\ADS-Unip\4-SEM\PIM\Quitanda\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\vinig\Documents\Pessoais\Cursos\ADS-Unip\4-SEM\PIM\Quitanda\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\vinig\Documents\Pessoais\Cursos\ADS-Unip\4-SEM\PIM\Quitanda\bin\Debug\net8.0\Microsoft.Identity.Client.dll
 C:\Users\vinig\Documents\Pessoais\Cursos\ADS-Unip\4-SEM\PIM\Quitanda\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
 C:\Users\vinig\Documents\Pessoais\Cursos\ADS-Unip\4-SEM\PIM\Quitanda\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
